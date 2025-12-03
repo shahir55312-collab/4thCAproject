@@ -1,0 +1,28 @@
+*{
+
+background-image: url(backgroundimage.png);
+}
+.resturant-header{
+    display:flex;
+    border:none;
+    
+}
+.header-nav{
+padding-top:0px;
+padding-left:1000px;
+border:none;
+
+}
+.content-container{
+    text-align:center;
+    margin-top:150px;
+    font-size:24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content-images{
+    padding: 0px 0px 0px 0px;
+}
+.content-container.p{
+    font-size: 50px;
+}
+    
